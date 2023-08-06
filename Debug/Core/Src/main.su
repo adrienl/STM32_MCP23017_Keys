@@ -1,0 +1,12 @@
+../Core/Src/main.c:98:9:MCP23017_AddrConv	24	static
+../Core/Src/main.c:108:9:MCP23017_I2CRead	40	static
+../Core/Src/main.c:123:6:MCP23017_I2CWrite	40	static
+../Core/Src/main.c:135:10:MCP23017_readNotes	24	static
+../Core/Src/main.c:141:6:MCP23017_init	16	static
+../Core/Src/main.c:167:5:main	16	static
+../Core/Src/main.c:226:6:SystemClock_Config	88	static
+../Core/Src/main.c:274:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:308:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:341:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:385:6:HAL_GPIO_EXTI_Callback	16	static,ignoring_inline_asm
+../Core/Src/main.c:404:6:Error_Handler	4	static,ignoring_inline_asm
